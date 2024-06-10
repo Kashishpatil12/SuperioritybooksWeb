@@ -1,0 +1,122 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    scroll-behavior: smooth;
+    text-decoration: none !important;
+}
+footer a{
+    text-decoration: none !important;
+    color: white;
+}
+.logo-title{
+    font-size: larger;
+    color: rgb(5, 5, 75);
+    font-weight: 700;
+}
+a{
+    text-decoration: none !important;
+}
+.btn1{
+    padding: 9px;
+}
+.btn1:hover{
+    background-color: rgb(5, 5, 75);
+    transition: ease-in .3s;
+    color: white ;
+
+
+}
+.section-1 img{
+    border-radius: 20px;
+}
+.ban-title{
+    font-weight: bold;
+    font-size: 70px;
+    text-align: left;
+    initial-letter-align:inherit;
+    
+}
+.para1{
+    text-align: center;
+}
+.ban-title1{
+    font-weight: bolder;
+    font-size: 70px;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rgb(18, 42, 106);  */
+    /* color: white;  */
+    /* border-radius: 20rem 14rem ;  */
+    /* padding-left: 10%; */
+    /* padding-bottom: 2%; */
+    /* margin-top: 3%; */
+}
+.head1{
+    color: rgb(5, 5, 75);
+}
+.hr-line1 hr{
+    border: 3px solid rgb(5, 5, 75);
+}
+.ban-title2{
+    color: rgb(5, 5, 75);
+}
+footer{
+    background-color: rgb(37, 36, 36);
+}
+footer ul{
+    list-style: none ;
+}
+footer li{
+    margin-top: 3.5%;
+}
+.head2{
+    color: rgb(5, 5, 75);
+    font-weight: 900;
+    font-size: 45PX;
+}
+.social-icon li{
+    display: inline;
+    margin-left: 10px;
+}
+.social-icon{
+    margin-top: 50px;
+}
+.about-book-list ul li{
+    list-style: none;
+    margin-top: 5px;
+    
+}
+a{
+    text-decoration: none !important;
+}
+.form-control {
+    border: none !important;
+    border-bottom: 2px solid #000000 !important;
+    border-radius: 0 !important; 
+  }
+.con-bt-sec{
+    /* background-image: url('../image/banner4.jpg'); */
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    /* background-color: rgb(148, 142, 142) !important; */
+   
+    /* background-blend-mode: multiply; */
+    /* color: white; */
+    border-radius: 7px 70px 7px 70px;
+}
+#btnsubmit:hover{
+    background-color: rgb(0, 0, 0) !important;
+   border: white solid 1px;
+   color: rgb(255, 255, 255) !important; 
+}
+.con-img img{
+    border-radius: 40px 20px;
+
+}
+.ban-title2{
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px rgb(5, 5, 75);
+
+}   
